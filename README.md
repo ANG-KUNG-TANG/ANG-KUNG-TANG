@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="YOUR_IMAGE_URL" width="150" height="150" style="border-radius: 50%;" alt="Ang Kung Tang" />
+  <img src="YOUR_IMAGE_URL" width="160" height="160" style="border-radius:50%;object-fit:cover;border:3px solid #1A56DB;" alt="Ang Kung Tang" />
 </div>
 
 <br/>
@@ -18,17 +18,36 @@
 
 ## 👤 About Me
 
-```js
-const ang = {
-  name:       "Ang Kung Tang",
-  location:   "Bangkok, Thailand 🇹🇭",
-  education:  "B.Digital Technology Innovation @ Kasem Bundit University",
-  gpa:        "3.70 / 4.00",
-  languages:  ["Burmese 🇲🇲 (Native)", "Thai (Intermediate)", "English (Professional)"],
-  interests:  ["Backend Systems", "API Design", "Startup Culture", "Real-world Problem Solving"],
-  currently:  "Looking for my first Software Engineering internship 🚀",
-};
-```
+<table>
+  <tr>
+    <td>🧑‍💻 <strong>Name</strong></td>
+    <td>Ang Kung Tang</td>
+  </tr>
+  <tr>
+    <td>📍 <strong>Location</strong></td>
+    <td>Bangkok, Thailand 🇹🇭</td>
+  </tr>
+  <tr>
+    <td>🎓 <strong>Education</strong></td>
+    <td>B.Digital Technology Innovation @ Kasem Bundit University</td>
+  </tr>
+  <tr>
+    <td>📊 <strong>GPA</strong></td>
+    <td>3.70 / 4.00</td>
+  </tr>
+  <tr>
+    <td>🌐 <strong>Languages</strong></td>
+    <td>Burmese 🇲🇲 (Native) · Thai (Intermediate) · English (Professional)</td>
+  </tr>
+  <tr>
+    <td>💡 <strong>Interests</strong></td>
+    <td>Backend Systems · API Design · Startup Culture · Real-world Problem Solving</td>
+  </tr>
+  <tr>
+    <td>🚀 <strong>Currently</strong></td>
+    <td>Looking for my first Software Engineering internship</td>
+  </tr>
+</table>
 
 -----
 
