@@ -1,16 +1,27 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A56DB,100:0ea5e9&height=200&section=header&text=Ang%20Kung%20Tang&fontSize=40&fontColor=ffffff&fontAlignY=55&desc=Full-Stack%20Developer%20%7C%20CS%20Student%20%40%20Kasem%20Bundit&descSize=16&descAlignY=75&animation=fadeIn" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A56DB,100:0ea5e9&height=120&section=header&text=&fontSize=0" />
+<br/>
 
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1A56DB&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ang+Kung+Tang+%F0%9F%91%8B;Full-Stack+Developer;CS+Student+%40+Kasem+Bundit+Uni;Building+things+from+0+to+1" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="IMG-2113ccca6d88e3a061ee68e2372fbf3d-V.jpg" width="160" height="160" style="border-radius:50%;object-fit:cover;border:3px solid #1A56DB;" alt="Ang Kung Tang" />
-</div>
+<table border="0" align="center">
+  <tr>
+    <td align="center" width="200">
+      <img src="IMG-2113ccca6d88e3a061ee68e2372fbf3d-V.jpg" width="150" height="150" style="border-radius:50%;border:3px solid #1A56DB;" alt="Ang Kung Tang"/>
+      <br/>
+      <sub><b>Ang Kung Tang</b></sub>
+      <br/>
+      <sub>Bangkok, Thailand 🇹🇭</sub>
+    </td>
+    <td width="500" valign="middle">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=1A56DB&width=480&lines=👋+Hi%2C+I'm+Ang+Kung+Tang;🚀+Full-Stack+Developer;🎓+CS+Student+%40+Kasem+Bundit+Uni;💡+Building+things+from+0+to+1;🔍+Open+to+SWE+Internships" alt="Typing SVG" />
+      <br/><br/>
+      <p>
+        🛠 Passionate about <strong>backend systems</strong> and <strong>API design</strong><br/>
+        📦 Building <strong>WriteSystem</strong> — a full-stack IELTS practice platform<br/>
+        🌱 Always learning, always shipping
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
