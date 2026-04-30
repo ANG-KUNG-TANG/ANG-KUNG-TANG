@@ -12,7 +12,7 @@
       <sub>Bangkok, Thailand 🇹🇭</sub>
     </td>
     <td width="500" valign="middle">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=1A56DB&width=480&lines=👋+Hi%2C+I'm+Ang+Kung+Tang;🚀+Full-Stack+Developer;🎓+CS+Student+%40+Kasem+Bundit+Uni;💡+Building+things+from+0+to+1;🔍+Open+to+SWE+Internships" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=1A56DB&width=480&lines=👋+Hi%2C+I'm+Ang+Kung+Tang;🚀+Full-Stack+Developer;🎓+CS+Student+%40+Kasem+Bundit+Uni;💡+Building+things+from+0+to+1;🔍+Open+to+SWE+Internships" />
       <br/><br/>
       <p>
         🛠 Passionate about <strong>backend systems</strong> and <strong>API design</strong><br/>
