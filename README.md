@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="YOUR_IMAGE_URL" width="160" height="160" style="border-radius:50%;object-fit:cover;border:3px solid #1A56DB;" alt="Ang Kung Tang" />
+  <img src="IMG-2113ccca6d88e3a061ee68e2372fbf3d-V.jpg" width="160" height="160" style="border-radius:50%;object-fit:cover;border:3px solid #1A56DB;" alt="Ang Kung Tang" />
 </div>
 
 <br/>
